@@ -1,3 +1,5 @@
+# NOTE: to run this file, you need to download the Caterpillars Count! dataset from the link provided below.
+# The file was too big to upload to GitHub but it does not take long to download.
 ######################################
 # BIOL 465 Research Project
 # Eric von Amsberg, Katelyn Cline
