@@ -1,0 +1,443 @@
+Route,SpeciesName,Abundance
+2,Common Yellowthroat,10
+2,Northern Parula,5
+2,Ovenbird,3
+2,Pine Warbler,22
+2,Prairie Warbler,5
+2,Prothonotary Warbler,6
+2,Yellow-throated Warbler,1
+2,Yellow-breasted Chat,7
+3,Common Yellowthroat,1
+3,Pine Warbler,17
+3,Prothonotary Warbler,1
+3,Yellow-throated Warbler,1
+3,Yellow-breasted Chat,1
+4,Hooded Warbler,1
+4,Northern Parula,2
+4,Pine Warbler,3
+4,Prothonotary Warbler,1
+4,Swainson's Warbler,1
+4,Yellow-throated Warbler,1
+4,Yellow-breasted Chat,2
+5,Common Yellowthroat,2
+5,Northern Parula,1
+5,Pine Warbler,1
+5,Prothonotary Warbler,1
+5,Yellow-breasted Chat,1
+10,Common Yellowthroat,20
+10,Hooded Warbler,1
+10,Louisiana Waterthrush,4
+10,Ovenbird,6
+10,Pine Warbler,10
+10,Prothonotary Warbler,6
+10,Yellow-throated Warbler,1
+10,Yellow-breasted Chat,12
+11,Common Yellowthroat,4
+11,Ovenbird,2
+11,Prothonotary Warbler,5
+11,Yellow-breasted Chat,1
+12,Common Yellowthroat,1
+12,Pine Warbler,25
+12,Prairie Warbler,2
+12,Yellow-throated Warbler,6
+12,Yellow-breasted Chat,11
+14,Common Yellowthroat,5
+14,Ovenbird,2
+14,Pine Warbler,3
+14,Yellow-breasted Chat,2
+17,Common Yellowthroat,11
+17,Kentucky Warbler,2
+17,Louisiana Waterthrush,1
+17,Ovenbird,1
+17,Pine Warbler,7
+17,Prothonotary Warbler,3
+17,Yellow-breasted Chat,11
+23,Black-and-white Warbler,1
+23,Common Yellowthroat,24
+23,Hooded Warbler,11
+23,Louisiana Waterthrush,2
+23,Ovenbird,25
+23,Pine Warbler,22
+23,Prairie Warbler,19
+23,Prothonotary Warbler,14
+23,Swainson's Warbler,2
+23,Yellow-throated Warbler,2
+23,Yellow-breasted Chat,9
+24,Black-and-white Warbler,1
+24,Common Yellowthroat,10
+24,Hooded Warbler,9
+24,Kentucky Warbler,3
+24,Louisiana Waterthrush,2
+24,Northern Parula,4
+24,Ovenbird,11
+24,Pine Warbler,17
+24,Prairie Warbler,13
+24,Prothonotary Warbler,2
+24,Yellow-throated Warbler,4
+24,Yellow-breasted Chat,13
+25,Common Yellowthroat,12
+25,Hooded Warbler,2
+25,Louisiana Waterthrush,1
+25,Northern Parula,2
+25,Ovenbird,9
+25,Pine Warbler,8
+25,Prairie Warbler,6
+25,Prothonotary Warbler,1
+25,Yellow-throated Warbler,1
+25,Yellow-breasted Chat,11
+27,Common Yellowthroat,8
+27,Northern Parula,2
+27,Pine Warbler,4
+30,American Redstart,2
+30,Black-and-white Warbler,1
+30,Black-throated Blue Warbler,2
+30,Chestnut-sided Warbler,8
+30,Hooded Warbler,7
+30,Northern Parula,5
+31,Black-and-white Warbler,2
+31,Black-throated Blue Warbler,17
+31,Black-throated Green Warbler,6
+31,Canada Warbler,9
+31,Chestnut-sided Warbler,6
+31,Common Yellowthroat,1
+31,Hooded Warbler,8
+31,Northern Parula,2
+31,Ovenbird,20
+101,Black-and-white Warbler,1
+101,Common Yellowthroat,10
+101,Hooded Warbler,10
+101,Northern Parula,10
+101,Ovenbird,8
+101,Pine Warbler,25
+101,Prairie Warbler,6
+101,Prothonotary Warbler,17
+101,Swainson's Warbler,3
+101,Worm-eating Warbler,4
+101,Yellow-throated Warbler,11
+101,Yellow-breasted Chat,9
+106,Common Yellowthroat,3
+106,Northern Parula,5
+106,Ovenbird,2
+106,Pine Warbler,2
+106,Prothonotary Warbler,3
+106,Yellow-breasted Chat,3
+107,Common Yellowthroat,63
+107,Hooded Warbler,2
+107,Ovenbird,4
+107,Pine Warbler,8
+107,Prairie Warbler,42
+107,Prothonotary Warbler,79
+107,Swainson's Warbler,1
+107,Worm-eating Warbler,2
+107,Yellow-throated Warbler,3
+108,American Redstart,2
+108,Black-and-white Warbler,1
+108,Common Yellowthroat,14
+108,Hooded Warbler,9
+108,Northern Parula,7
+108,Ovenbird,6
+108,Pine Warbler,10
+108,Prairie Warbler,8
+108,Prothonotary Warbler,4
+108,Worm-eating Warbler,3
+108,Yellow-throated Warbler,4
+108,Yellow-breasted Chat,17
+109,Black-and-white Warbler,7
+109,Common Yellowthroat,16
+109,Hooded Warbler,6
+109,Louisiana Waterthrush,1
+109,Northern Parula,3
+109,Ovenbird,15
+109,Pine Warbler,23
+109,Prairie Warbler,3
+109,Prothonotary Warbler,10
+109,Worm-eating Warbler,1
+109,Yellow-throated Warbler,3
+109,Yellow-breasted Chat,10
+116,Common Yellowthroat,2
+116,Pine Warbler,3
+119,Common Yellowthroat,1
+119,Ovenbird,1
+119,Pine Warbler,7
+119,Prairie Warbler,1
+119,Worm-eating Warbler,1
+121,American Redstart,1
+121,Black-and-white Warbler,7
+121,Black-throated Blue Warbler,2
+121,Hooded Warbler,15
+121,Ovenbird,17
+121,Worm-eating Warbler,5
+121,Yellow Warbler,3
+121,Yellow-breasted Chat,1
+202,American Redstart,1
+202,Common Yellowthroat,15
+202,Hooded Warbler,1
+202,Northern Parula,1
+202,Ovenbird,13
+202,Pine Warbler,42
+202,Prairie Warbler,1
+202,Prothonotary Warbler,12
+202,Swainson's Warbler,1
+202,Worm-eating Warbler,2
+202,Yellow-throated Warbler,5
+202,Yellow-breasted Chat,1
+204,Black-and-white Warbler,2
+204,Common Yellowthroat,11
+204,Hooded Warbler,3
+204,Kentucky Warbler,1
+204,Northern Parula,7
+204,Ovenbird,3
+204,Pine Warbler,14
+204,Prairie Warbler,10
+204,Prothonotary Warbler,5
+204,Swainson's Warbler,1
+204,Worm-eating Warbler,2
+204,Yellow-throated Warbler,5
+204,Yellow-breasted Chat,11
+205,Common Yellowthroat,4
+205,Hooded Warbler,1
+205,Ovenbird,3
+205,Pine Warbler,24
+205,Prairie Warbler,5
+205,Prothonotary Warbler,5
+205,Yellow-breasted Chat,9
+206,Common Yellowthroat,9
+206,Kentucky Warbler,1
+206,Northern Parula,1
+206,Ovenbird,5
+206,Pine Warbler,13
+206,Prothonotary Warbler,4
+206,Yellow-breasted Chat,3
+207,Common Yellowthroat,4
+207,Hooded Warbler,1
+207,Pine Warbler,16
+207,Prairie Warbler,1
+207,Prothonotary Warbler,1
+207,Yellow-breasted Chat,10
+208,Common Yellowthroat,12
+208,Pine Warbler,4
+208,Prothonotary Warbler,1
+210,Common Yellowthroat,5
+210,Hooded Warbler,1
+210,Ovenbird,1
+210,Pine Warbler,14
+210,Prothonotary Warbler,4
+210,Yellow-breasted Chat,7
+212,American Redstart,1
+212,Kentucky Warbler,1
+212,Louisiana Waterthrush,1
+212,Ovenbird,3
+212,Prairie Warbler,1
+212,Yellow-breasted Chat,3
+213,Common Yellowthroat,3
+213,Northern Parula,1
+213,Ovenbird,3
+213,Pine Warbler,2
+213,Prothonotary Warbler,3
+213,Yellow-breasted Chat,1
+215,Common Yellowthroat,7
+215,Hooded Warbler,5
+215,Kentucky Warbler,1
+215,Louisiana Waterthrush,1
+215,Northern Parula,1
+215,Ovenbird,9
+215,Pine Warbler,5
+215,Prairie Warbler,1
+215,Yellow-throated Warbler,3
+215,Yellow-breasted Chat,5
+216,Common Yellowthroat,2
+216,Ovenbird,2
+216,Pine Warbler,13
+216,Yellow-breasted Chat,1
+217,Common Yellowthroat,3
+217,Pine Warbler,11
+218,Pine Warbler,2
+218,Yellow Warbler,1
+220,American Redstart,1
+220,Black-throated Blue Warbler,1
+220,Hooded Warbler,4
+220,Northern Parula,1
+220,Ovenbird,6
+220,Yellow-breasted Chat,5
+221,Black-throated Green Warbler,1
+221,Hooded Warbler,5
+221,Northern Parula,1
+221,Ovenbird,2
+222,Black-throated Green Warbler,7
+222,Common Yellowthroat,2
+222,Hooded Warbler,21
+222,Kentucky Warbler,1
+222,Louisiana Waterthrush,3
+222,Northern Parula,6
+222,Ovenbird,13
+222,Prairie Warbler,1
+222,Swainson's Warbler,1
+222,Worm-eating Warbler,5
+222,Yellow-throated Warbler,1
+222,Yellow Warbler,3
+222,Yellow-breasted Chat,2
+224,American Redstart,3
+224,Common Yellowthroat,19
+224,Hooded Warbler,6
+224,Kentucky Warbler,2
+224,Louisiana Waterthrush,1
+224,Northern Parula,2
+224,Ovenbird,8
+224,Pine Warbler,10
+224,Prairie Warbler,8
+224,Prothonotary Warbler,11
+224,Yellow-throated Warbler,3
+224,Yellow-breasted Chat,15
+225,Common Yellowthroat,9
+225,Northern Parula,1
+225,Pine Warbler,9
+225,Prairie Warbler,1
+225,Yellow-throated Warbler,2
+225,Yellow-breasted Chat,2
+228,American Redstart,1
+228,Black-and-white Warbler,1
+228,Black-throated Blue Warbler,2
+228,Chestnut-sided Warbler,6
+228,Common Yellowthroat,14
+228,Hooded Warbler,7
+228,Kentucky Warbler,1
+228,Ovenbird,1
+228,Worm-eating Warbler,2
+228,Yellow Warbler,2
+230,Common Yellowthroat,19
+230,Louisiana Waterthrush,1
+230,Ovenbird,2
+230,Pine Warbler,6
+230,Prairie Warbler,1
+230,Prothonotary Warbler,2
+230,Yellow-breasted Chat,7
+231,Common Yellowthroat,29
+231,Hooded Warbler,2
+231,Northern Parula,1
+231,Ovenbird,4
+231,Pine Warbler,12
+231,Prairie Warbler,9
+231,Yellow-throated Warbler,1
+231,Yellow-breasted Chat,9
+232,Common Yellowthroat,16
+232,Hooded Warbler,6
+232,Northern Parula,5
+232,Ovenbird,21
+232,Pine Warbler,16
+232,Prairie Warbler,15
+232,Yellow-throated Warbler,1
+232,Yellow-breasted Chat,18
+233,Common Yellowthroat,4
+233,Northern Parula,1
+233,Ovenbird,2
+233,Pine Warbler,3
+233,Prairie Warbler,2
+233,Yellow-breasted Chat,1
+301,American Redstart,1
+301,Black-and-white Warbler,2
+301,Chestnut-sided Warbler,1
+301,Common Yellowthroat,17
+301,Hooded Warbler,5
+301,Louisiana Waterthrush,4
+301,Northern Parula,2
+301,Ovenbird,1
+301,Yellow-throated Warbler,1
+301,Yellow Warbler,2
+303,Common Yellowthroat,9
+303,Northern Parula,1
+303,Ovenbird,7
+303,Pine Warbler,10
+303,Prairie Warbler,5
+303,Prothonotary Warbler,1
+303,Yellow-breasted Chat,7
+304,Black-and-white Warbler,1
+304,Common Yellowthroat,9
+304,Hooded Warbler,10
+304,Louisiana Waterthrush,2
+304,Northern Parula,4
+304,Ovenbird,24
+304,Pine Warbler,7
+304,Prairie Warbler,12
+304,Yellow-throated Warbler,9
+304,Yellow-breasted Chat,21
+305,Black-and-white Warbler,1
+305,Common Yellowthroat,8
+305,Hooded Warbler,8
+305,Kentucky Warbler,2
+305,Ovenbird,13
+305,Pine Warbler,9
+305,Prairie Warbler,8
+305,Yellow-breasted Chat,8
+306,Common Yellowthroat,17
+306,Ovenbird,3
+306,Pine Warbler,3
+306,Prothonotary Warbler,2
+307,Blue-winged Warbler,1
+307,Hooded Warbler,1
+307,Northern Parula,3
+307,Ovenbird,1
+307,Yellow-throated Warbler,2
+308,Black-and-white Warbler,4
+308,Black-throated Blue Warbler,14
+308,Black-throated Green Warbler,8
+308,Blackburnian Warbler,2
+308,Canada Warbler,7
+308,Chestnut-sided Warbler,4
+308,Common Yellowthroat,1
+308,Hooded Warbler,6
+308,Louisiana Waterthrush,2
+308,Northern Parula,14
+308,Ovenbird,8
+308,Yellow-breasted Chat,1
+309,Common Yellowthroat,4
+309,Prairie Warbler,7
+309,Yellow-breasted Chat,9
+311,Common Yellowthroat,7
+311,Northern Parula,4
+311,Pine Warbler,5
+311,Prairie Warbler,3
+311,Prothonotary Warbler,1
+311,Swainson's Warbler,1
+311,Yellow-breasted Chat,19
+312,Common Yellowthroat,2
+312,Hooded Warbler,1
+312,Ovenbird,1
+312,Prairie Warbler,3
+312,Prothonotary Warbler,3
+312,Yellow-breasted Chat,4
+313,Common Yellowthroat,1
+313,Louisiana Waterthrush,1
+313,Northern Parula,3
+313,Ovenbird,7
+313,Prothonotary Warbler,8
+313,Yellow-throated Warbler,1
+313,Yellow-breasted Chat,5
+314,Common Yellowthroat,2
+314,Hooded Warbler,2
+314,Pine Warbler,17
+314,Prairie Warbler,9
+314,Yellow-throated Warbler,1
+314,Yellow-breasted Chat,3
+315,Common Yellowthroat,1
+315,Pine Warbler,1
+315,Yellow-breasted Chat,1
+316,Common Yellowthroat,1
+316,Northern Parula,1
+316,Prothonotary Warbler,1
+317,Common Yellowthroat,2
+317,Northern Parula,2
+317,Pine Warbler,3
+317,Prothonotary Warbler,3
+317,Yellow-throated Warbler,2
+318,Common Yellowthroat,5
+318,Hooded Warbler,1
+318,Northern Parula,2
+318,Ovenbird,6
+318,Pine Warbler,3
+318,Prairie Warbler,7
+318,Yellow-throated Warbler,1
+318,Yellow-breasted Chat,11
+329,Common Yellowthroat,6
+329,Ovenbird,1
+329,Pine Warbler,4
+329,Prothonotary Warbler,4
